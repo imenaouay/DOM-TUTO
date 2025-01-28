@@ -1,0 +1,2 @@
+dom ==> document object model 
+-- when a web pages is loaded, the browser creates a document object model of the page 
